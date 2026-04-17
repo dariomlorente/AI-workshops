@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Development notes (local only)
+*S.md
